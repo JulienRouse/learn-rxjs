@@ -3,7 +3,8 @@
 Des exemples clairs, des explications et des ressources pour RxJS.
 
 _Par [@btroncone](https://twitter.com/BTroncone)_
-_Traduit par Julien Rousé
+
+_Traduit en français par Julien Rousé_
 
 ## Introduction
 
@@ -51,7 +52,7 @@ Un Sujet (Subject) est un type spécial d'Observable qui partage un seul chemin 
 
 #### Concepts
 
-Sans une base solide de connaissance sur la manière dont fonctionne les Observables en arrière plan, c'est facile de confondre RxJS pour de la 'magie'. Cette section aide à solidier l'apprentissage des concepts cardinaux dont vous aurez besoin pour vous sentir à l'aise avec la programmation réactive et les Observables.
+Sans une base solide de connaissance sur la manière dont fonctionne les Observables en arrière plan, c'est facile de confondre RxJS pour de la 'magie'. Cette section aide à solidifier l'apprentissage des concepts cardinaux dont vous aurez besoin pour vous sentir à l'aise avec la programmation réactive et les Observables.
 
 - [Concepts essentiels RxJS](/concepts/rxjs-primer.md)
 - [Passer de RxJS v5 -> v6](/concepts/rxjs5-6.md)
