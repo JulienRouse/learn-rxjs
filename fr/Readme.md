@@ -134,19 +134,14 @@ Débutant en RxJS et en programmation réactive? En complément du contenu de ce
 - [Rx Visualization - Visualizes programming with RxJS(Rx Visualization - Visualiser la programmation avec RxJS)](https://fingerpich.github.io/rx-visualization/) -
   Mojtaba Zarei
 
-_Interessé par RxJS 4? Jeter un oeil à l'excellent [eBook](https://xgrommx.github.io/rx-book/) de [Denis Stoyanov's](https://github.com/xgrommx)!_
+_Interessé par RxJS 4? Jeter un oeil à l'excellent [eBook](https://xgrommx.github.io/rx-book/) de [Denis Stoyanov](https://github.com/xgrommx)!_
 
 ## Traductions
 
-- [Learn RxJS](/Readme.md)
+- [Learn RxJS](/Readme.md) (Version originale)
 - [简体中文](https://rxjs-cn.github.io/learn-rxjs-operators)
 - [Apprendre RxJS](/fr/Readme.md)
 
 ### Précision sur les réferences
-
-All references included in this GitBook are resources, both free and paid, that
-helped me tremendously while learning RxJS. If you come across an article or
-video that you think should be included, please use the _edit this page_ link in
-the top menu and submit a pull request. Your feedback is appreciated!
 
 Toutes les références incluses dans ce GitBook sont des ressouces, autant gratuites que payantes, qui m'ont aidé énormement pendant que je me familiarisait avec RxJS. Si vous découvrez un article ou une vidéo qui pourrait être ajouté à cette liste, s'il vous plait utilisez le lien _edit this page_ dans le menu en haut, et soumettez un *pull request*. Toutes critiques ou commentaires sont les bienvenus! :)
