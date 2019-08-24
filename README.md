@@ -29,7 +29,6 @@ while offering a new, fresh perspective to clear any hurdles and tackle the pain
 points. Learning Rx may be difficult but it is certainly worth the effort!
 
 <div class="ua-ad"><a href="https://ultimatecourses.com/courses/rxjs"><img src="https://ultimatecourses.com/assets/img/banners/rxjs-banner-desktop.svg" style="width:100%;max-width:100%"></a></div>
-
 ### Brand New to RxJS?
 
 Start getting familiar with all the key concepts needed to be productive with
@@ -166,6 +165,7 @@ excellent [eBook](https://xgrommx.github.io/rx-book/)!_
 ## Translations
 
 - [简体中文](https://rxjs-cn.github.io/learn-rxjs-operators)
+- [Apprendre RxJS](/fr/Readme.md)
 
 ### A Note On References
 
