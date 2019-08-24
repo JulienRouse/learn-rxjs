@@ -1,4 +1,4 @@
-# Opérateurs RxJS par l'exemple
+# Les Opérateurs RxJS par l'exemple
 
 Une liste complète des opérateurs RxJS avec des explications clairs, des resources pertinentes et des exemples interactifs.
 
